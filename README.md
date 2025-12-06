@@ -9,8 +9,11 @@ A feature-rich Flutter application designed for culinary enthusiasts to discover
 ## 📸 Screenshots
 <p align="center">
   <img src="screenshots/home.png" width="200" alt="Home Screen">
-  <img src="screenshots/detail.png" width="200" alt="Detail Screen">
+  <img src="screenshots/nav.png" width="200" alt="Nav Screen">
   <img src="screenshots/filter.png" width="200" alt="Filter Screen">
+  <img src="screenshots/list.png" width="200" alt="List Screen">
+  <img src="screenshots/detail.png" width="200" alt="Detail Screen">
+  <img src="screenshots/favorite.png" width="200" alt="Favorite Screen">
 </p>
 
 ## ✨ Key Features
